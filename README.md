@@ -36,7 +36,7 @@ Built with React, Nodejs and MongoDB.
   
  # Enjoy the game # 
  
-<img src="https://user-images.githubusercontent.com/11709895/184993816-f60ceae0-efdc-4db7-b79b-dbdd4c240698.png" width="500"><img src="https://user-images.githubusercontent.com/11709895/184993818-72f22965-20d0-476d-9022-4dbd755c2907.png" width="500">
+<img src="https://user-images.githubusercontent.com/11709895/184993816-f60ceae0-efdc-4db7-b79b-dbdd4c240698.png" width="500">  <img src="https://user-images.githubusercontent.com/11709895/184993818-72f22965-20d0-476d-9022-4dbd755c2907.png" width="500">
 
 
 
