@@ -6,28 +6,28 @@ Built with React, Nodejs and MongoDB.
 
 # HOW TO SETUP!
 
-# 1 - Install MongoDB and create a new Database. # 
+# 1 - Install MongoDB and create a new Database # 
 
 
 
-# 2 - Add the url of your database in the server.js file located in the server folder.# 
+# 2 - Add the url of your database in the server.js file located in the server folder # 
 <img src="https://user-images.githubusercontent.com/11709895/184992058-cf13b425-11a8-4409-8ad5-298a357a01e0.png" width="300">
 
 
-# 3 - Prepare the Excel file containing the English words (you can use your own file and words just respect the shape and form of data in the table# 
+# 3 - Prepare the Excel file containing the English words (you can use your own file and words just respect the shape and form of data in the table # 
 
 <img src="https://user-images.githubusercontent.com/11709895/184992633-fdef20cb-a4b6-41d7-91ee-ff5fa4abada0.png" width="500">
 
-# 4 - Seed the database with the excist Excel file# 
+# 4 - Seed the database with the excist Excel file # 
   Run in the terminal : node installMongoose  (located in the server folder)
   
   
-# 5 - Run the API server# 
+# 5 - Run the API server # 
     
   Run in the terminal : node server (located in the server folder)
   
   
-# 6 - Run the react App# 
+# 6 - Run the react App # 
   
   Run in the terminal : npm start
   
@@ -36,9 +36,9 @@ Built with React, Nodejs and MongoDB.
   
  # Enjoy the game # 
  
-<img src="https://user-images.githubusercontent.com/11709895/184993816-f60ceae0-efdc-4db7-b79b-dbdd4c240698.png" width="500">
+<img src="https://user-images.githubusercontent.com/11709895/184993816-f60ceae0-efdc-4db7-b79b-dbdd4c240698.png" width="500"><img src="https://user-images.githubusercontent.com/11709895/184993818-72f22965-20d0-476d-9022-4dbd755c2907.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/11709895/184993818-72f22965-20d0-476d-9022-4dbd755c2907.png" width="500">
+
 
 <img src="https://user-images.githubusercontent.com/11709895/184993821-3b09ffdc-b4b4-4a7e-ba46-a9a223d228e5.png" width="500">
 
