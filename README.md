@@ -8,11 +8,11 @@ Built with React, Nodejs and MongoDB.
 
 # 1 - Install MongoDB and create a new Database. # 
 
-[[https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png|width=100px]]
+<img src="https://user-images.githubusercontent.com/11709895/184992058-cf13b425-11a8-4409-8ad5-298a357a01e0.png" width="300">
 
 
 # 2 - Add the url of your database in the server.js file located in the server folder.# 
-![sss](https://user-images.githubusercontent.com/11709895/184992058-cf13b425-11a8-4409-8ad5-298a357a01e0.png | width=100px)
+![sss]( | width=100px)
 
 
 # 3 - Prepare the Excel file containing the English words (you can use your own file and words just respect the shape and form of data in the table# 
