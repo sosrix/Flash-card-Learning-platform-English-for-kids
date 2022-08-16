@@ -1,4 +1,4 @@
-﻿# Flash-card- English for kids
+﻿# Flash-card- Learning platform - English for kids
 
 An application to provide an interactive experience for kids to learn new English words, Only the most used one. manifsted from an excel file of a study of the most used words in english (simple words).
 
