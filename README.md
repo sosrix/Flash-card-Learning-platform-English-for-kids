@@ -8,7 +8,7 @@ ______________________________________________
 
 **Giving an Excel file containing a bunch of english words and how much they get used usauly (from a study), the game goes throw all the words and there's more chance to see a word if it most used. if you marked a word as that you know what it means it gets dropped down in list and decrease it chance to show again (it will), if it shows again and you marked it again as if you know it it decreases even more, till it never shows again. but if you marked this time as a new word for you it increases it chance to appear again. and that goes for all the words listed, think of it like it's a rating system and you're a customer rating products, whenever a product get many good ratings appears more for other customers and if it has low rating it appears rarely (THE OPPOSITE FORE US, GOOD RATING MEANS YOU KNOW IT NO NEED TO SHOW IT THAT OFTEN)** 
 
-FOR ANY QUESTION OR PROBLEMS FEEL FREE TO CONTACT ME
+FOR ANY QUESTION OR PROBLEMS FEEL FREE TO CONTACT ME || 
 EMAIL : AHMINASOUFIYAN@GMAIL.COM
 
 
