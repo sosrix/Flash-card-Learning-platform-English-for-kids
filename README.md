@@ -36,23 +36,15 @@ Built with React, Nodejs and MongoDB.
   
  # Enjoy the game # 
  
-<img src="https://user-images.githubusercontent.com/11709895/184993816-f60ceae0-efdc-4db7-b79b-dbdd4c240698.png" width="500">  <img src="https://user-images.githubusercontent.com/11709895/184993818-72f22965-20d0-476d-9022-4dbd755c2907.png" width="500">
+<img src="https://user-images.githubusercontent.com/11709895/184993816-f60ceae0-efdc-4db7-b79b-dbdd4c240698.png" width="500">   <img src="https://user-images.githubusercontent.com/11709895/184993818-72f22965-20d0-476d-9022-4dbd755c2907.png" width="500">
 
 
 
-<img src="https://user-images.githubusercontent.com/11709895/184993821-3b09ffdc-b4b4-4a7e-ba46-a9a223d228e5.png" width="500">
+<img src="https://user-images.githubusercontent.com/11709895/184993821-3b09ffdc-b4b4-4a7e-ba46-a9a223d228e5.png" width="500">   <img src="https://user-images.githubusercontent.com/11709895/184993823-5d7f872c-bde1-4991-b353-ad0e46ff512b.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/11709895/184993823-5d7f872c-bde1-4991-b353-ad0e46ff512b.png" width="500">
+<img src="https://user-images.githubusercontent.com/11709895/184993805-cff009db-3a3b-485a-b87c-1e02047a6d02.png" width="500">   <img src="https://user-images.githubusercontent.com/11709895/184993807-8d2848f7-ace2-40eb-88d4-2d1115271973.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/11709895/184993805-cff009db-3a3b-485a-b87c-1e02047a6d02.png" width="500">
+<img src="https://user-images.githubusercontent.com/11709895/184993811-1d515afd-1363-4aaf-8618-4ab8908b0330.png" width="500">   <img src="https://user-images.githubusercontent.com/11709895/184993814-d64fb3f5-42b9-4c5c-866c-f981593bf0a4.png" width="500">
 
-<img src="https://user-images.githubusercontent.com/11709895/184993807-8d2848f7-ace2-40eb-88d4-2d1115271973.png" width="500">
-
-<img src="https://user-images.githubusercontent.com/11709895/184993811-1d515afd-1363-4aaf-8618-4ab8908b0330.png" width="500">
-
-<img src="https://user-images.githubusercontent.com/11709895/184993814-d64fb3f5-42b9-4c5c-866c-f981593bf0a4.png" width="500">
-
-<img src="https://user-images.githubusercontent.com/11709895/184993814-d64fb3f5-42b9-4c5c-866c-f981593bf0a4.png" width="500">
-
-<img src="https://user-images.githubusercontent.com/11709895/184993800-b543ce51-55b2-4975-8b8c-d61aa7737fd0.png" width="500">
+<img src="https://user-images.githubusercontent.com/11709895/184993814-d64fb3f5-42b9-4c5c-866c-f981593bf0a4.png" width="500">   <img src="https://user-images.githubusercontent.com/11709895/184993800-b543ce51-55b2-4975-8b8c-d61aa7737fd0.png" width="500">
 
