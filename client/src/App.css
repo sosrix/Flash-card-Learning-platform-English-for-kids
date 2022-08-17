@@ -1,0 +1,272 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@1,700&display=swap');
+
+body{
+  font-family: 'Roboto Mono', monospace;
+  background-color: #444;
+}
+.app{
+  box-sizing: border-box;
+  width: 100%;
+  height: 100vh;
+  padding: 5% 5%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  
+}
+.question{
+  width: 80%;
+  line-height: 120px;
+  background-color: darkcyan;
+  color: #fff;
+  font-size: 48px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.main{
+  width: 80%;
+  height: 100vh;
+
+}
+
+.props{
+  width: 100%;
+  margin-top: 50px;
+  margin-left: -40px;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 40px 35px;
+}
+
+.item{
+  line-height: 85px;
+  text-align: center;
+  list-style: none;
+  background-color: wheat;
+  font-size: 35px;
+  cursor: pointer;
+}
+.item:hover{
+  background-color: rgb(198, 245, 179);
+}
+
+.the_correct{
+  margin-top: 50px;
+  width: 100%;
+  height: 80px;
+  line-height: 80px;
+  background-color: tomato;
+  color: white;
+  text-align: center;
+  font-size: 35px;
+
+}
+
+.inf{
+  width: 80%;
+  height: 30px;
+  margin: 30px 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.important{
+  width: 40%;
+  height: 30px;
+  border: 1px solid #ccc;
+}
+
+.inf-num{
+  display: flex;
+  gap: 5px;
+}
+.inf-num> div{
+  color: #222;
+  padding: 3px 13px;
+}
+.you-kwon {
+  background-color: darkgreen;
+  color: #fff;
+  padding: 5px 20px;
+}
+.inf-num-correct{
+  background-color: chartreuse;
+}
+.inf-num-incorrect{
+  background-color: crimson;
+}
+.inf-num-all{
+  background-color: cyan;
+}
+
+.important-full{
+  display: inline-block;
+  height: 30px;
+  background: darkolivegreen; 
+}
+
+.important-span{
+  display: block;
+  height: 30px;
+  line-height: 30px;
+  text-align: center;
+  color: #fff;
+  margin-left: 50%;
+  transform: translate(-50%, -120%);
+}
+
+.examples-list{
+  width: 100%;
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.examples-list > div{
+  width: 60%;
+  background-color: rgb(103, 155, 252);
+  text-align: center;
+  padding: 20px 10px;
+  font-size: 20px;
+  color: #222;
+}
+
+.i-want-to-answer > textarea{
+  box-sizing: border-box;
+  margin-top: 30px;
+  width: 100%;
+  height: 120px;
+  padding: 10px;
+  font-size: 22px;
+}
+
+.i-want-to-answer > button{
+  padding: 12px 35px;
+  background-color: burlywood;
+  border: 1px solid #444;
+  margin-top: 5px;
+}
+
+.buttons{
+  position: sticky;
+  width: 80%;
+  height: 80px;
+  bottom: 0;
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.buttons > button{
+  padding: 0 15px;
+  cursor: pointer;
+  border: 2px solid #999;
+}
+
+.hiddenInput{
+  height: 1px;
+  width: 1px;
+  opacity: 0;
+  cursor: default;
+}
+
+/**/
+
+.menu-links{
+  position: fixed;
+  top: 15px;
+  left: 5%;
+}
+.menu-links > a{
+  background-color: #999;
+  padding: 5px 10px;
+  margin: 0 5px;
+  text-decoration: none;
+  color: #fff;
+}
+
+*{
+  z-index: 1;
+}
+
+.more-inf {
+  width: 90%;
+  top: 0;
+  z-index: 9;
+  padding-bottom: 90px;
+}
+
+.all-inf-links{
+  margin-top: 80px;
+  width: 100%;
+  display: flex;
+  gap: 20px;
+}
+
+.all-inf-links > li{
+
+  background-color: antiquewhite;
+  list-style-type: none;
+  padding: 5px 10px;
+  cursor: pointer;
+
+}
+
+.details{
+  width: 90%;
+  margin: 5% 10%;
+}
+
+.details > div{
+  padding: 10px 10px;
+  font-size: 25px;
+  background-color: #ccc;
+  color: #222;
+  margin: 20px 0;
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.examples{
+  position: fixed;
+  width: 100%;
+  text-align: center;
+  color: #444;
+  font-size: 18px;
+  padding: 10px ;
+  bottom: 0;
+  background-color: rgb(131, 169, 179);
+  border-top: 2px solid #fff;
+}
+
+.examples > div {
+
+  padding: 6px 50px;
+  
+}
+
+.word-det{
+  padding-left: 20px;
+}
+
+.imp-det{
+  width: 100px;
+
+}
+
+
+.sub{
+  padding-top: 150px;
+}
+
+.sub > div > input{
+  margin-left: 50%;
+  transform: translateX(-50%);
+
+  width: 500px;
+}
